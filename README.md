@@ -1,4 +1,4 @@
-# three-tier-architecture-with-terraform
+# Three-tier Architecture deployment with terraform
 ## Deploy a scalable and resilient three-tier architecture on AWS using Terraform.
 
 
