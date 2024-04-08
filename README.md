@@ -13,7 +13,7 @@ This project enables the deployment of a highly available, scalable, and secure 
 
 
 ## 📌 Architecture Diagram
-![multi-tier-architecture](https://github.com/shubhamksawant/three-tier-architecture-with-terraform/three-tier-architecture-with-terraform.png)
+![multi-tier-architecture](https://github.com/shubhamksawant/three-tier-architecture-with-terraform/blob/main/three-tier-architecture-with-terraform.png)
 
 
 ## ✨ Features
