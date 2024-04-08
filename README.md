@@ -11,7 +11,9 @@ This project enables the deployment of a highly available, scalable, and secure 
 
 - **Database Tier**: This tier stores and manages application data. Amazon RDS is utilized for a managed database service.
 
-### terraform plan -var-file="secret.tfvars"
+
+## 📌 Architecture Diagram
+![multi-tier-architecture](https://github.com/shubhamksawant/three-tier-architecture-with-terraform/three-tier-architecture-with-terraform.png)
 
 
 ## ✨ Features
